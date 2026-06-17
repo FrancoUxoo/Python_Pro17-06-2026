@@ -2,4 +2,4 @@
 
 # ESTE REPOSITORIO FUE CREADO POR UXO.
 
-# este repositorio fue creado para recopilar informacion clave de mi proyecto piloto creado, gestionarlo y avanzar de manera eficiente y coordinada con mis compañeros
+# este repositorio fue creado para recopilar informacion clave de mi proyecto piloto creado, gestionarlo y avanzar de manera eficiente y coordinada con mis compañeros.
